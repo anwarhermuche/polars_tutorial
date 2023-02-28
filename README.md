@@ -56,3 +56,6 @@ A seguir, um breve resumo sobre as variáveis do dataset:
     <li> <strong>Var_1</strong>: Variável anônima 
     <li> <strong>Segmentation</strong>: Segmento ao qual o cliente pertence
 </ul>
+
+
+Clique no arquivo <a href = "https://github.com/anwarhermuche/polars_tutorial/blob/main/Tutorial_Polars.ipynb">"Tutorial_Polars.ipynb"</a> para acessar o tutorial completo!
